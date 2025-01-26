@@ -11,7 +11,7 @@ import SwiftUI
 struct CodehesiveApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OverviewView()
         }
     }
 }
